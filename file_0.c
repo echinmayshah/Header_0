@@ -170,9 +170,8 @@
 /*********Voltage Controller*********/
 #define MOTOR 		1
 
-#define INFINEON_0	1
 #define INFINEON	1
-#define BLDC		0
+#define _4_POLE_BLDC		0
 #define ACL_BLDC 	0
 #define PMSM_14P	0
 #define PMSM_20P	0

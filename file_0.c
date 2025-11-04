@@ -170,7 +170,7 @@
 /*********Voltage Controller*********/
 #define MOTOR 		1
 
-
+#define INFINEON_0	1
 #define INFINEON	1
 #define BLDC		0
 #define ACL_BLDC 	0

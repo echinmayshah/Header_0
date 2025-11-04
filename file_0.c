@@ -170,11 +170,11 @@
 /*********Voltage Controller*********/
 #define MOTOR 		1
 
-#define INFINEON	0
+#define INFINEON	1
 #define BLDC		0
 #define ACL_BLDC 	0
 #define PMSM_14P	0
-#define PMSM_20P	1
+#define PMSM_20P	0
 
 #if(MOTOR == INFINEON)
 /*********Voltage Controller*********/
